@@ -1,5 +1,5 @@
 # spamerCALL
-# by404rgr
+by404rgr
 
 # cara install
 <br>  apt update
@@ -12,7 +12,7 @@
 <br>  python spamercall.py
 
 #Enjoy...
-#folow me
-Instagram: pausi404
-Github   : https://github.com/404rgr
-youtube  : Pausi Channel
+<br>  #folow me
+<br>  Instagram: pausi404
+<br>  Github   : https://github.com/404rgr
+<br>  youtube  : Pausi Channel
