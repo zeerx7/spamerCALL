@@ -5,14 +5,14 @@ by404rgr
       apt update
       apt upgrade
       apt install git
-<br>  apt install python
-<br>  git clone https://github.com/404rgr/spamerCALL
-<br>  cd spamerCALL
-<br>  pip install requirements.txt
-<br>  python spamercall.py
-<br>  #Enjoy...
+      apt install python
+      git clone https://github.com/404rgr/spamerCALL
+      cd spamerCALL
+      pip install requirements.txt
+      python spamercall.py
+   #Enjoy...
 
 # folow me
       Instagram: pausi404
-<br>  Github   : https://github.com/404rgr
-<br>  youtube  : Pausi Channel
+      Github   : https://github.com/404rgr
+      youtube  : Pausi Channel
