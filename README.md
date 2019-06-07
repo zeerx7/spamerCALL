@@ -10,11 +10,9 @@ by404rgr
 <br>  cd spamerCALL
 <br>  pip install requirements.txt
 <br>  python spamercall.py
+<br>  #Enjoy...
 
-<br>#Enjoy...
-<br>
-
-#folow me
+# folow me
 <br>  Instagram: pausi404
 <br>  Github   : https://github.com/404rgr
 <br>  youtube  : Pausi Channel
