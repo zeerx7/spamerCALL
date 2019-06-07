@@ -2,9 +2,9 @@
 by404rgr
 
 # cara install
-<br>  apt update
-<br>  apt upgrade
-<br>  apt install git
+      apt update
+      apt upgrade
+      apt install git
 <br>  apt install python
 <br>  git clone https://github.com/404rgr/spamerCALL
 <br>  cd spamerCALL
