@@ -13,6 +13,6 @@ by404rgr
 <br>  #Enjoy...
 
 # folow me
-<br>  Instagram: pausi404
+      Instagram: pausi404
 <br>  Github   : https://github.com/404rgr
 <br>  youtube  : Pausi Channel
