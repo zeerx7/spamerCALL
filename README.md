@@ -8,7 +8,7 @@ by404rgr
 <br>  apt install python
 <br>  git clone https://github.com/404rgr/spamerCALL
 <br>  cd spamerCALL
-<br>  pip2 install requirements.txt
+<br>  pip install requirements.txt
 <br>  python spamercall.py
 
 #Enjoy...
